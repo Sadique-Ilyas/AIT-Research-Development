@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785450288722",
+    "project_id": "ait-research-and-development",
+    "storage_bucket": "ait-research-and-development.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785450288722:android:9f61c406f662140516418b",
+        "android_client_info": {
+          "package_name": "com.example.aitresearchdevelopment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785450288722-9b8j8akh3o20uk4rvn4thndi75bgoctb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKfjqN2Swkvf590WHnZZuB5jQJfXEvceY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785450288722-9b8j8akh3o20uk4rvn4thndi75bgoctb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
